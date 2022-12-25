@@ -1,0 +1,39 @@
+{
+    "emp_details": [
+      {
+        "Name":"Shailesh",
+        "DOB":"26/09/1998",
+        "Height":"5.2 Feet",
+        "City":"Udupi",
+        "State":"Karnataka"
+      },
+      {
+        "Name": "Namitha",
+        "DOB": "04/09/2001",
+        "Height": "5.2 Feet",
+        "City": "Udupi",
+        "State": "Karnataka"
+      },
+      {
+        "Name": "Anil",
+        "DOB": "08/09/1998",
+        "Height": "5 Feet",
+        "City": "Udupi",
+        "State": "Karnataka"
+      },
+      {
+        "Name": "Venkatesh",
+        "DOB": "12/12/1998",
+        "Height": "5.7 Feet",
+        "City": "Mumbai",
+        "State": "Maharashtra"
+      },
+      {
+        "Name": "Sharat",
+        "DOB": "31/05/2001",
+        "Height": "5.8 Feet",
+        "City": "Mumbai",
+        "State": "Maharashtra"
+      }
+    ]
+}
